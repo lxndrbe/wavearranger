@@ -1,4 +1,4 @@
-# Techno Arranger
+# WaveArranger
 
 A browser-based track arrangement analyzer for DJs and producers, built on top of [WaveSurfer.js](https://wavesurfer.js.org/).
 
