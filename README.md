@@ -19,7 +19,7 @@ Load an audio file, mark sections and set markers, take notes — then export ev
 
 ## Built With
 
-- [WaveSurfer.js](https://wavesurfer.js.org/) — audio waveform rendering & regions plugin
+- [WaveSurfer.js](https://github.com/katspaugh/wavesurfer.js) — audio waveform rendering & regions plugin
 - [Vite](https://vitejs.dev/) — build tooling
 - Web Audio API — BPM detection
 
