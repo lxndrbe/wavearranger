@@ -1,6 +1,6 @@
 # WaveArranger
 
-A browser-based track arrangement analyzer for DJs and producers, built on top of [WaveSurfer.js](https://wavesurfer.js.org/).
+A browser-based track arrangement analyzer for DJs and producers, built on top of [WaveSurfer.js](https://github.com/katspaugh/wavesurfer.js). 
 
 Load an audio file, mark sections and set markers, take notes — then export everything as Obsidian-compatible Markdown.
 
